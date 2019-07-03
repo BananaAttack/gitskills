@@ -1,4 +1,12 @@
 it miss
 why
 now try it again
+<<<<<<< HEAD
 okok now it's been done
+=======
+???
+confuzing
+>>>>>>> master
+i don't know what will happen
+but 
+warframeQAQ
